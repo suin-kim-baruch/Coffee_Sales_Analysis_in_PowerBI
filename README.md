@@ -1,1 +1,3 @@
-# Coffee_Sales_Analysis_in_PowerBI
+# Coffee Sales Analysis using PowerBI
+
+Coffee Sales Analysis per Year & Countries. 
