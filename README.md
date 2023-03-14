@@ -1,3 +1,3 @@
 # Coffee Sales Analysis using PowerBI
 
-Coffee Sales Analysis per Year & Countries. 
+Coffee Sales KPI reports per Year & Countries. 
